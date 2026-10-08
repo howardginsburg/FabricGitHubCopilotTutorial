@@ -1,0 +1,17 @@
+title: Fabric + Power BI with GitHub Copilot
+description: >-
+  A hands-on tutorial for building a Microsoft Fabric and Power BI solution end to end
+  with GitHub Copilot, MCP servers, first-party extensions, and a GitHub-connected workspace.
+
+# Just the Docs is a GitHub Pages-compatible remote theme with sidebar nav and search.
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+# Ordered navigation is driven by the `nav_order` front matter on each page.
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+exclude:
+  - README.md

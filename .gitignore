@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local authentication and tool state must never be committed.
+.azure/
+.copilot/
+.fabric/
+
+# Jekyll / GitHub Pages build output.
+docs/_site/
+docs/.jekyll-cache/
+docs/.jekyll-metadata
+docs/Gemfile.lock

@@ -1,0 +1,6 @@
+{
+  "chat.mcp.autostart": "newAndOutdated",
+  "files.exclude": {
+    "**/__pycache__": true
+  }
+}
