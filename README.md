@@ -96,10 +96,12 @@ Reference material (sample data, expected totals, recovery tips, links) is in
 
 ### Publishing the tutorial as a website
 
-The `docs/` folder is configured for [GitHub Pages](https://docs.github.com/pages) with the
-[Just the Docs](https://just-the-docs.com/) theme. To publish it: push this repo to GitHub,
-then in **Settings → Pages** set the source to **Deploy from a branch**, branch **main**,
-folder **/docs**. GitHub builds and serves the tutorial with sidebar navigation and search.
+Read the tutorial online at **<https://howardginsburg.github.io/FabricGitHubCopilotTutorial/>**.
+
+The `docs/` folder is published with [GitHub Pages](https://docs.github.com/pages) using the
+[Just the Docs](https://just-the-docs.com/) theme, with sidebar navigation and search. To publish
+your own copy: push the repo to GitHub, then in **Settings → Pages** set the source to
+**Deploy from a branch**, branch **main**, folder **/docs**.
 
 ## Repository layout
 
